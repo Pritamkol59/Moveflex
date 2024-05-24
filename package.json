@@ -28,7 +28,22 @@
     "jest": "^29.6.3",
     "prettier": "2.8.8",
     "react-test-renderer": "18.2.0",
-    "typescript": "5.0.4"
+    "typescript": "5.0.4",
+
+    "@react-navigation/native-stack": "^6.9.12",
+    "@react-navigation/stack": "^6.3.16",
+    "@reduxjs/toolkit": "^2.2.5",
+    "axios": "^1.7.2",
+    "react-native-deck-swiper": "^2.0.17",
+    "react-native-fullscreen-chz": "^4.0.13",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-normalize": "^1.0.1",
+    "react-native-safe-area-context": "^4.3.1",
+    "react-native-screens": "^3.13.1",
+    "react-native-star-rating-widget": "^1.7.3",
+    "react-native-svg": "^15.3.0",
+    "react-redux": "^9.1.2",
+    "redux-thunk": "^3.1.0"
   },
   "engines": {
     "node": ">=18"
